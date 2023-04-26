@@ -21,5 +21,11 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Atas de reunião:
+    - 1. 03/04/23 - Quarta: atas/03_04_23.md
+    - 2. 12/04/23 - Quarta: atas/12_04_23.md
+    - 3. 17/04/23 - Segunda: atas/17_04_23.md
+    - 4. 19/04/23 - Quarta: atas/19_04_23.md
+    - 5. 24/04/23 - Segunda: atas/24_04_23.md
 
 dev_addr: "0.0.0.0:8000"
