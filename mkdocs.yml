@@ -28,7 +28,7 @@ nav:
     - 4. 19/04/23 - Quarta: atas/19_04_23.md
     - 5. 24/04/23 - Segunda: atas/24_04_23.md
     - 6. 26/04/23 - Quarta: atas/26_04_23.md
- - Guias:
+  - Guias:
     - Manual de Deploy: guias/manual-de-deploy/deploy.md
     - Tutorial do ambiente de desenvolvimento: guias/tutorial-ambiente-desenvolvimento/tutorial-ambiente-desenvolvimento.md
 
