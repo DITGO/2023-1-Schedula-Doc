@@ -1,4 +1,4 @@
-# Tutorial de ambiente
+# Tutorial do ambiente de desenvolvimento
 
 ## 1. Descrição
 
@@ -29,5 +29,6 @@ Os repositórios citados são:
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |      26/04/23      |  1.0   |               Documento inicial                   |       Guilherme Richter          |
+|      26/04/23      |  1.1   |               Revisão do documento                   |       Italo Vinícius e Álvaro Leles          |
 
 </center>
