@@ -4,9 +4,9 @@ Este manual tem o objetivo de ensinar a realização do Deploy dos repositórios
 
 ## 1.  Microservices (back-end)
 
-        Para realizar o deploy dos microsserviços, a equipe utilizou a plataforma Heroku, para seguir em conformidade com os alunos do semestre passado. Ao entrar no link [Heroku](https://www.heroku.com/), criar uma conta, acessar a página inicial e fazer login.
+Para realizar o deploy dos microsserviços, a equipe utilizou a plataforma Heroku, para seguir em conformidade com os alunos do semestre passado. Ao entrar no link [Heroku](https://www.heroku.com/), criar uma conta, acessar a página inicial e fazer login.
 
-        A ideia principal será criar o deploy do banco de dados primeiramente, que será utilizado pelo ecossistema dos nossos microsserviços.
+A ideia principal será criar o deploy do banco de dados primeiramente, que será utilizado pelo ecossistema dos nossos microsserviços.
 
 1.1. Na página inicial, clicar no botão “new” e em “create new app”.
 
@@ -48,7 +48,7 @@ Este manual tem o objetivo de ensinar a realização do Deploy dos repositórios
 
 ![](images/image28.png)
 
-        Essas credenciais são criadas automaticamente depois que o add-on foi instalado com sucesso.
+Essas credenciais são criadas automaticamente depois que o add-on foi instalado com sucesso.
 
 1.10. Com as credenciais criadas, voltar à página inicial do Heroku e criar um novo app. Agora é o momento em que são criados os apps para os três microsserviços do Schedula:
 
@@ -92,11 +92,11 @@ Com as variáveis criadas, o app Heroku está pronto para receber o código font
 ## 2.  Front-end
 
 
-        Embora tenha conseguido realizar o deploy dos repositórios dos microservices no Heroku, equipe teve bastante dificuldade em realizar o deploy do Front-end nessa mesma ferramentas que os alunos de semestres anteriores utilizaram, pois ela tem passado por algumas mudanças e, atualmente, não comporta de maneira razoável aplicações que utilizam o framework Vite, que é usado na aplicação Schedula.
+Embora tenha conseguido realizar o deploy dos repositórios dos microservices no Heroku, equipe teve bastante dificuldade em realizar o deploy do Front-end nessa mesma ferramentas que os alunos de semestres anteriores utilizaram, pois ela tem passado por algumas mudanças e, atualmente, não comporta de maneira razoável aplicações que utilizam o framework Vite, que é usado na aplicação Schedula.
 
-        Dessa maneira, a equipe buscou outras alternativas de servidores cloud para hospedarem o repositório do front-end, e dentre eles, o que melhor se encaixou nas necessidades e limitações da equipe foi o Netlify.
+Dessa maneira, a equipe buscou outras alternativas de servidores cloud para hospedarem o repositório do front-end, e dentre eles, o que melhor se encaixou nas necessidades e limitações da equipe foi o Netlify.
 
-        Assim, segue abaixo um pequeno tutorial com o objetivo de ensinar os leitores a realizarem o mesmo deploy que fizemos do repositório do front-end, lembrando mais uma vez que esses passos só devem ser executados após o deploy de todos os microservices.
+Assim, segue abaixo um pequeno tutorial com o objetivo de ensinar os leitores a realizarem o mesmo deploy que fizemos do repositório do front-end, lembrando mais uma vez que esses passos só devem ser executados após o deploy de todos os microservices.
 
 2.1. O primeiro passo é acessar o site [Netlify](https://www.netlify.com/) e criar uma conta de usuário, simples e gratuita. É importante preencher todas as informações com a sua conta do Github onde está salvo o repositório do Schedula, para que o Netlify encontre de maneira mais fácil.
 
@@ -124,7 +124,7 @@ VITE\_PUBLIC\_GESTOR\_DE\_USUARIO\_URL=
 VITE\_PUBLIC\_GERENCIADOR\_DE\_LOCALIDADES\_URL=
 ```
 
-        O que deve ser posto após o = de cada variável são os links gerados pelo deploy dos microservices, de maneira similar como colocamos na imagem abaixo para o nosso caso. Manter marcado a opção “all scopes” e “all deploy contents”, e clicar na opção “import variables”.
+O que deve ser posto após o = de cada variável são os links gerados pelo deploy dos microservices, de maneira similar como colocamos na imagem abaixo para o nosso caso. Manter marcado a opção “all scopes” e “all deploy contents”, e clicar na opção “import variables”.
 
 ![](images/image9.png)
 
@@ -140,4 +140,14 @@ VITE\_PUBLIC\_GERENCIADOR\_DE\_LOCALIDADES\_URL=
 
 ![](images/image10.png)
 
-        Ao finalizar, basta acessar o Schedula pela URL gerada após a edição.
+Ao finalizar, basta acessar o Schedula pela URL gerada após a edição.
+
+## 3. Versionamento
+
+<center>
+
+|    Data    | Versão |            Descrição             |      Autor      |
+| :--------: | :----: | :------------------------------: | :-------------: |
+|      26/04/23      |  1.0   |               Documento inicial                   |       Guilherme Richter          |
+
+</center>
