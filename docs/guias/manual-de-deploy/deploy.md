@@ -149,5 +149,6 @@ Ao finalizar, basta acessar o Schedula pela URL gerada após a edição.
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |      26/04/23      |  1.0   |               Documento inicial                   |       Guilherme Richter          |
+|      26/04/23      |  1.0   |               Validação                   |       Italo Fernandes          |
 
 </center>
