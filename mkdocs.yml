@@ -31,5 +31,6 @@ nav:
   - Guias:
     - Manual de Deploy: guias/manual-de-deploy/deploy.md
     - Tutorial do ambiente de desenvolvimento: guias/tutorial-ambiente-desenvolvimento/tutorial-ambiente-desenvolvimento.md
+    - Treinamento de Git: guias/treinamento-git/treinamento-git.md
 
 dev_addr: "0.0.0.0:8000"
