@@ -27,6 +27,11 @@ nav:
     - 3. 17/04/23 - Segunda: atas/17_04_23.md
     - 4. 19/04/23 - Quarta: atas/19_04_23.md
     - 5. 24/04/23 - Segunda: atas/24_04_23.md
-    - 6. 01/05/23 - Segunda: atas/01_05_23.md
+    - 6. 26/04/23 - Quarta: atas/26_04_23.md
+    - 7. 01/05/23 - Segunda: atas/01_05_23.md
+  - Guias:
+    - Manual de Deploy: guias/manual-de-deploy/deploy.md
+    - Tutorial do ambiente de desenvolvimento: guias/tutorial-ambiente-desenvolvimento/tutorial-ambiente-desenvolvimento.md
+    - Treinamento de Git: guias/treinamento-git/treinamento-git.md
 
 dev_addr: "0.0.0.0:8000"
