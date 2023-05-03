@@ -36,6 +36,7 @@
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |  02/05/23  |  1.0   |   Documento inicial              |   Ítalo Serra e Álvaro Guimarães  |
+|  02/05/23  |  1.1   |   Revisão do documento              |   Gabriel Avelino  |
 
 </center>
 
