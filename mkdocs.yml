@@ -35,5 +35,6 @@ nav:
     - Treinamento de Git: guias/treinamento-git/treinamento-git.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
+    - Estrutura Análitica do Projeto: visao_do_produto/EAP.md
 
 dev_addr: "0.0.0.0:8000"
