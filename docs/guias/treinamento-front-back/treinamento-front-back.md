@@ -19,5 +19,6 @@ Nesta reunião as equipes do Schedula tanto de MDS quanto EPS se reuniram para r
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |      04/05/23      |  1.0   |               Documento inicial                   |       Ítalo Vinícius          |
+|      05/05/23      |  1.1   |               Revisão do documento                   |       Gabriel Avelino          |
 
 </center>
