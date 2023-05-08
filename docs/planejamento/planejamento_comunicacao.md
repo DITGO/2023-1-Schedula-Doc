@@ -22,7 +22,7 @@ Este documento tem o objetivo de demonstrar o planejamento de comunicação da e
 |  <img src="../img/logo_whatsapp.png" width="100" style="border-radius: 50%" />  | Whatsapp | Comunicação assíncrona entre o time |
 |  <img src="../img/logo_teams.png" width="100" />  | Teams | Reuniões síncronas com os POs e professor / Reuniões internas |
 |  <img src="../img/logo_drive.png" width="100" style="border-radius: 50%" />  | Google Drive | Armazenamento de artefatos |
-|  <img src="../img/logo_github.png" width="100" style="border-radius: 50%" />  | Github | Repositórios de Documentação e código do projeto |
+|  <img src="../img/logo_github.png" width="100" style="border-radius: 50%" />  | Github | Repositórios de documentação e código do projeto |
 |  <img src="../img/logo_zenhub.png" width="100" style="border-radius: 50%" /> | Zenhub | Ferramenta de acompanhamento do projeto (Kanban, Roadmap, Issues e Sprints) |
 
 ## 4. Versionamento
