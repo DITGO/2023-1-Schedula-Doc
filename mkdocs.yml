@@ -40,5 +40,7 @@ nav:
     - Treinamento Front-end/Back-end: guias/treinamento-front-back/treinamento-front-back.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
+  - Planejamento:
+    - Metodologias: planejamento/metodologias.md
 
 dev_addr: "0.0.0.0:8000"
