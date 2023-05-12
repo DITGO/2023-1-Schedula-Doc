@@ -49,7 +49,7 @@ O XP tem <b>cinco</b> valores muito importantes que formam a base para o desenvo
 * <b>Feedback:</b> Fator altamente importante nos dias atuais, pois permite que outros além do grupo enxergue os erros e dificuldades do programa, melhorando-o cada vez mais.
 <br>
 
-* <b>Coragem:</b> Um dos valores mais importantes é ter coragem para testar novas ideias, substituir antigas, mudar o código corrigir erros.
+* <b>Coragem:</b> Um dos valores mais importantes é ter coragem para testar novas ideias, substituir antigas, mudar o código e corrigir erros.
  <br>
 
 * <b>Respeito:</b> Por último, mas não menos importante, ter respeito pela comunidade ao seu redor, pelos membros do grupo e pelo meio social, para manter um ambiente agradável para todos trabalharem.
@@ -77,9 +77,8 @@ Scrum é uma metodologia ágil de gerenciamento de projetos que visa aumentar a 
 A metodologia Scrum é baseada em três pilares principais: transparência, inspeção e adaptação. A transparência envolve compartilhar informações relevantes com todos os membros da equipe para garantir uma compreensão comum do projeto e suas metas. A inspeção refere-se à avaliação contínua do progresso e do produto resultante, permitindo que a equipe identifique e corrija problemas ou ajuste o plano conforme necessário. A adaptação envolve a capacidade de ajustar e otimizar o trabalho e o processo à medida que a equipe aprende mais sobre o projeto e suas necessidades.
 </p>
 
-#### <a>Papéis no Scrum</a>
 <p style="text-indent: 20px; text-align: justify">
-Promovendo a transparência, a inspeção e a adaptação contínuas, permitindo que as equipes entreguem valor de forma eficiente e eficaz, adaptando-se às mudanças e às necessidades do projeto. A metodologia Scrum define três papéis principais:
+Promovendo transparência, inspeção e adaptação contínuas, o Scrum permite que as equipes entreguem valor de maneira eficiente e eficaz, adaptando-se às mudanças e necessidades do projeto. A metodologia Scrum define três papéis principais:
 </p>
 
 * <b>Scrum Master:</b> Responsável por garantir que o processo seja seguido corretamente, remover obstáculos e facilitar a comunicação.
