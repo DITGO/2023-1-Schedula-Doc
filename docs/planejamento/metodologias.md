@@ -68,7 +68,7 @@ O XP, além dos valores listados acima, possui um conjunto de princípios que de
 * <b>Releases curtas:</b> As liberações de pequenas versões funcionais do projeto auxiliam muito no processo de aceitação por parte do cliente que já pode testar uma parte do sistema. Além de que a chance de reverter os erros/bugs do sistema ficam mais fáceis de consertar por voltar para uma versão mais perto da destinada.
 
 
-## <a>Srum</a>
+## <a>Scrum</a>
 <p style="text-indent: 20px; text-align: justify">
 Scrum é uma metodologia ágil de gerenciamento de projetos que visa aumentar a eficiência, a transparência e a colaboração em equipes de desenvolvimento de software. Foi criada para lidar com projetos complexos e em constante mudança, permitindo a entrega de valor de forma incremental e iterativa.
 </p>
