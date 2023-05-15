@@ -22,6 +22,7 @@ extra_css:
 nav:
   - Início: index.md
   - Planejamento:
+    - Metodologia: planejamento/metodologias.md
     - Planejamento de Comunicação: planejamento/planejamento_comunicacao.md
   - Atas de reunião:
     - 1. 03/04/23 - Quarta: atas/03_04_23.md
@@ -40,7 +41,5 @@ nav:
     - Treinamento Front-end/Back-end: guias/treinamento-front-back/treinamento-front-back.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
-  - Planejamento:
-    - Metodologias: planejamento/metodologias.md
 
 dev_addr: "0.0.0.0:8000"
