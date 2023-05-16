@@ -39,7 +39,7 @@ nav:
     - Tutorial do ambiente de desenvolvimento: guias/tutorial-ambiente-desenvolvimento/tutorial-ambiente-desenvolvimento.md
     - Treinamento de Git: guias/treinamento-git/treinamento-git.md
     - Treinamento Front-end/Back-end: guias/treinamento-front-back/treinamento-front-back.md
-    - Treinamento Dorcker e Desenvolvimento de Código: guias/treinamento-docker/treinamento-docker.md
+    - Treinamento Docker e Desenvolvimento de Código: guias/treinamento-docker/treinamento-docker.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
 
