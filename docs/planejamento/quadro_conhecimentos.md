@@ -1,5 +1,5 @@
 # Quadro de Conhecimentos
-Esse documento tem o objetivo de mostrar os conhecimentos da equipe no início do projeto. Isso permitirá uma analise dos níveis de conhecimento técnico da equipe, o que nos ajudará ao longo do planejamento do desenvolvimento do produto. Com base nos níveis de conhecimento, é possível planejar treinamentos focados em tecnologias chave além de ajudar a ter noções iniciais sobre a capacidade de produção da equipe. Outros benefícios que podem ser destacados são: pareamentos onde um pode ajudar o outro e acompanhar a evolução do conhecimento da equipe.
+Esse documento tem o objetivo de mostrar os conhecimentos da equipe no início do projeto. Isso permitirá uma análise dos níveis de conhecimento técnico da equipe, o que nos ajudará ao longo do planejamento do desenvolvimento do produto. Com base nos níveis de conhecimento, é possível planejar treinamentos focados em tecnologias-chave além de ajudar a ter noções iniciais sobre a capacidade de produção da equipe. Outros benefícios que podem ser destacados são: pareamentos onde um pode ajudar o outro e acompanhar a evolução do conhecimento da equipe.
 
 ## 1. Conhecimentos - 01/04/23
 
