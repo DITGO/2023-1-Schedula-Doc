@@ -25,6 +25,7 @@
 | :--------: | :----: | :------------------------------: | :-------------: |
 |  03/05/23  |  1.0   |   Documento inicial              |   Ítalo Serra e Gabriel Bonifácio  |
 |  19/05/23  |  2.0   |   Registro da imagem da EAP      |   Ítalo Serra e Gabriel Bonifácio  |
+|  20/05/23  |  2.1   |   Revisão do documento     |   Gabriel Avelino  | 
 
 </center>
 
