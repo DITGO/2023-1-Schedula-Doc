@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 <p align="justify">&emsp;&emsp;
-  A Estrutura Análitica do Projeto (EAP) é um diagrama que tem a finalidade de organizar e decompor o escopo do projeto em partes menores, facilitando o entendimento e a visualização do projeto como um todo. A EAP é uma ferramenta muito utilizada no gerenciamento de projetos, pois ela permite que tenha uma visão geral do projeto, podendo assim, identificar os principais entregáveis e as atividades necessárias para a conclusão do projeto. A EAP é uma ferramenta que pode ser utilizada em qualquer tipo de projeto, independente do tamanho ou complexidade, pois ela é uma ferramenta simples e de fácil entendimento.
+  A Estrutura Análitica do Projeto (EAP) é um diagrama que tem a finalidade de organizar e decompor o escopo do projeto em pequenas partes, facilitando o entendimento e a visualização do projeto como um todo. A EAP é uma ferramenta muito utilizada no gerenciamento de projetos, pois ela permite que tenha uma visão geral do projeto, podendo assim, identificar os principais entregáveis e as atividades necessárias para a conclusão do projeto. A EAP é uma ferramenta que pode ser utilizada em qualquer tipo de projeto, independente do tamanho ou complexidade, pois ela é uma ferramenta simples e de fácil entendimento.
 </p>
 
 
