@@ -13,8 +13,9 @@
 
 ## 3. Resultados
 
+<p align="justify" style="text-indent: 20px">A EAP pode ser vista na imagem abaixo e no link, onde foi confeccionado - no DrawIo. <a href=https://drive.google.com/file/d/1WwrnSu4HhioKrlbuS4KNJfxsjcx7trze/view?usp=sharing>aqui.</a></p>
 
-
+![](images/EAP.png)
 
 ## 4. Versionamento
 
@@ -23,6 +24,7 @@
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |  03/05/23  |  1.0   |   Documento inicial              |   Ítalo Serra e Gabriel Bonifácio  |
+|  19/05/23  |  2.0   |   Registro da imagem da EAP      |   Ítalo Serra e Gabriel Bonifácio  |
 
 </center>
 
