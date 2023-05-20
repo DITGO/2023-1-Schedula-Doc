@@ -9,17 +9,9 @@
 
 ## 2. Custo médio de um aluno em uma universidade federal
 
-<p align="justify" style="text-indent: 20px">De acordo com a reportagem feita pelo O Globo em 2016[<a href=./#referencia>1</a>], o custo anual de um aluno em universidades federais é de R$ 38.805,00. Com essa informação, é possível calcular o custo de um aluno por mês, que é de R$ 3.233,75, e considerando que em média um aluno cursa 6 matérias por semestre, logo, o custo mensal por disciplina de um aluno é de 538,96.</p>
+<p align="justify" style="text-indent: 20px">De acordo com a matéria do jornal da unesp, em 2019 [<a href=./#referencia>1</a>], o custo anual de um aluno em universidades federais é de <b>R$ 40.900,00</b>. Com essa informação, é possível calcular o custo de um aluno por mês: <b>R$ 3.408,33</b>, por semana: <b>R$ 852,08</b>, por dia (considerando que o projeto será desenvolvido ao longo dos 7 dias da semana): <b>R$ 121,73</b> e por hora (levando em consideração que em média gasta-se 6h por dia com a faculdade): <b>R$ 20,29</b>.</p>
 
-<p align="justify" style="text-indent: 20px">Quando atualizamos o valor de R$ 538,96 para o ano de 2023, utilizando a calculadora de correção da inflação do Banco Central do Brasil [<a href=./#referencia>2</a>], o valor obtido foi de R$ 738,06, como pode ser visto na imagem a seguir.</p>
-
-<figure>
-  <img src="../img/correcao_IPCA.png" width="450" />
-  <figcaption>Figura 1 - Correção do custo mensal por disciplina de um aluno em 2016 para 2023</figcaption>
-</figure>
-
-
-<p align="justify" style="text-indent: 20px">Levando em conta que o custo mensal por disciplina de um aluno é 738,06 e a disciplina tem duração de 100 dias ou aproximadamente 4 meses[<a href=./#referencia>3</a>], o valor estimado para apenas um integrante da equipe é R$ 2.952,24. Portanto para toda a equipe com 17 alunos, o valor final será de 50.188,08.</p>
+<p align="justify" style="text-indent: 20px">Levando em conta que serão gastas 10h por semana para as disciplinas de EPS/MDS, o custo por semana, por aluno, para essas disciplinas é de <b>R$ 202,88</b>. Como a equipe possui 17 integrantes, por semana a equipe custará <b>R$ 3.448,96</b>. Para o projeto de 15 semanas, o custo com pessoal será de <b>R$ 51.734,40</b>. Para o MVP, que será desenvolvido em 10 semanas, o custo será de <b>R$ 34.489,60</b>.</p>
 
 
 ## 3. Custos por equipamento
@@ -30,9 +22,14 @@
 <p align="justify" style="text-indent: 20px">Assim, foi feita a escolha de um computador específico com base em uma pesquisa de mercado, levando em contas os requisitos necessários para desenvolver o projeto de maneira eficiente, mas que não sejam desnecessariamente custosos demais. Dessa maneira a equipe levantou os seguintes requisitos de hardware para o computador: <b>Processador Intel Core i3, 8 GB de memória RAM e SSD de 256 GB</b>. O equipamento escolhido tem custo na data de 05/05/2023 de R$ 2.868 no site da fabricante, que pode ser visualizado <a href="https://www.hp.com/br-pt/shop/notebook-hp-256-g8-78l98la.html">aqui</a>.</p>
 <p align="justify" style="text-indent: 20px">O valor total desse custo, multiplicado pela quantidade de alunos, 17, é de cerca de <b>R$ 48.756</b></a>.</p>
 
-## 4. Earned Value Management
+## 4. Planilha
 
-<p align="justify" style="text-indent: 20px"> </p>
+<iframe src='https://docs.google.com/spreadsheets/d/1ZjsYscGUs9ifcJvjE-xHu_2Z4RFgUXK3dYlWOTPosSU/edit?usp=sharing'
+        width='100%'
+        height='500px'
+        style='min-width: 640px; min-height: 500px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
 
 ## 5. Versionamento
 
@@ -43,13 +40,10 @@
 |  04/05/23  |  1.0   |   Documento inicial                    |     Ian Ferreira    |
 |  05/05/23  |  1.1   |   Adicionando custo por aluno          |     Ítalo Serra     |
 |  05/05/23  |  1.2   |   Adicionando custo por equipamento    | Guilherme de Morais |
+|  19/05/23  |  1.3   |   Adicionando planilha, alterando referências    | Álvaro Leles |
 
 </center>
 
 ## 6. Referência
 
-> [1] RAIO-X DO CUSTO POR ALUNO NAS UNIVERSIDADES FEDERAIS. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acessado em 05 mai. 2023.
-
-> [2] BCB - Calculadora do cidadão. Bcb.gov.br. Disponível em: https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice. Acessado em 05 mai. 2023.
-
-> [3] SAA - Secretaria de Administração Acadêmica. Disponível em: https://saa.unb.br/graduacao/calendario-academico#calendario-academico-para-2022-e-2023. Acessado em 05 mai. 2023.
+> [1] Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/#:~:text=O%20custo%20por%20aluno%20dos,ao%20custo%20em%20institui%C3%A7%C3%B5es%20privadas.%E2%80%9D. Acessado em 05 mai. 2023.
