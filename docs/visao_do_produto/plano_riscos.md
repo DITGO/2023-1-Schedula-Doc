@@ -68,6 +68,181 @@ A EAR é dividida em diferentes categorias e subcategorias para facilitar a iden
 
 </center>
 
+
+# 3.3 Prioridades
+
+Para definir as prioridades, foi utilizado a seguinte fórmula:
+
+<center>
+
+Prioridade = Probabilidade x Impacto
+
+</center>
+
+Por meio desta fórmula conseguimos verificar algumas prioridades para atenção em relação aos risco que serão lidados no decorrer do projeto. Além disso podemos validar maneiras de evitar, focar e identificar de maneria mais simples esses possíveis erros.
+
+**Probabilidade x Impacto** | **Muito Baixo** | **Baixo** | **Médio**  | **Alto** | **Muito Alto**
+:-----------------------: | :-------------: | :-------: |:----------:|:--------:|:------------: 
+**Muito Alta**            |        5        |    10     |      15    |    20    |      25
+**Alta**                  |        4        |    8      |      12    |    16    |      20
+**Média**                 |        3        |    6      |      9     |    12    |      15
+**Baixa**                 |        2        |    4      |      6     |    8     |      10
+**Muito Baixa**           |        1        |    2      |      3     |    4     |      5
+
+Na tabela acima podemos verificar cada tipo de prioridade que pode ser atribuída a cada risco. Por exemplo, se um risco possui probabilidade(colunas) média e impacto(linhas) alto, sua prioridade será 12.
+
+# 4. Planilha de Riscos
+
+Decorrente de projetos e matérias desenvolvidas no passado a experiência dos integrantes da equipe foi utilizada para a criação de uma planilha de riscos. A planilha de riscos é uma ferramenta que auxilia na identificação, análise e monitoramento dos riscos do projeto. A planilha de riscos é composta por 5 colunas, sendo elas:
+
+## 4.1 Riscos externos
+
+- R1: Indisponibilidade do cliente no decorrer do projeto
+
+    - Risco: Alto
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Organizar, comunicar,  definir horários com os clientes
+    - Resposta: Antecipar validações para que a entrega tenha folga de desenvolvimento além de repriorizar ou alterar para problemas que não envolvem o cliente
+
+- R2: Indisponibilidades dos integrantes por motivos profissionais
+
+    - Risco: Alto
+    - Probabilidade: Alto
+    - Impacto: Médio
+    - Prevenção: Planejamento, gerência e divisão de tarefas
+    - Resposta: Redistribuição de tarefas entre a equipe e verificação da capacidade de trabalho e desenvolvimento de cada membro
+    
+- R3: Indisponibilidades dos integrantes por motivos de saúde
+
+    - Risco: Médio
+    - Probabilidade: Baixo
+    - Impacto: Baixo
+    - Prevenção: Sempre estar atento às medidas de saúde, evitar ambientes insalubre
+    - Resposta: Redistribuição de tarefas entre a equipe
+
+- R4: Indisponibilidades dos integrantes por demandas da faculdade
+
+    - Risco: Médio
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: N/A
+    - Resposta: Redistribuição de tarefas entre a equipe
+
+## 4.2 Riscos organizacionais
+
+- R5: Realização de pareamentos de forma ineficiente
+
+    - Risco: Baixo
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Entendimento dos conhecimentos e habilidades da equipe
+    - Resposta: Reparear ou transformar pareamento em um grupo com mais integrantes
+
+- R6: Priorização equivocada das tarefas
+
+    - Risco: Médio
+    - Probabilidade: Muito Alto
+    - Impacto: Muito Alto
+    - Prevenção: Entendimento do produto, avaliações com os clientes, comunicação entre a equipe
+    - Resposta: Repriorizar e, se necessário, levantar novos requisitos
+
+- R7: Familiaridade com a tecnologia
+
+    - Risco: Médio
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Avaliação do quadro de conhecimento da equipe
+    - Resposta: Realização de treinamentos e divulgação do conhecimento
+
+- R8: Financiamento do projeto
+
+    - Risco: Baixo
+    - Probabilidade: Baixo
+    - Impacto: N/A
+    - Prevenção: N/A
+    - Resposta: Avaliação dos requisitos, apresentação do projeto, comunicação com os clientes
+
+## 4.3 Riscos técnicos  
+
+- R9: Utilização de bibliotecas desatualizadas/comprometidas
+    - Risco: Muito Baixo
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Avaliação antes do uso/escolha da biblioteca
+    - Resposta: Implementação própria ou mudança de biblioteca
+
+- R10: Utilização de tecnologias que não atendem às demandas
+    - Risco: Muito Baixo
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Avaliação prévia da tecnologia e das suas funcionalidades
+    - Resposta: Refatorações de código
+
+- R11: Infraestrutura definida não atende o projeto
+    - Risco: Alto
+    - Probabilidade: Muito Alto
+    - Impacto: Muito Alto
+    - Prevenção: Avaliação dos custos e capacidades da infraestrutura escolhida
+    - Resposta: Alteração da infraestrutura do projeto
+
+- R12: Arquitetura definida não atende o projeto
+    - Risco: Baixo
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Análise e avaliação da arquitetura utilizada ou que se deseja utilizar
+    - Resposta: Alteração da arquitetura definida envolvendo refatorações de código
+
+- R13: Qualidade de código
+    - Risco: Médio
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Análise estática de código, avaliação de acordo com os padrões esperados de qualidade
+    - Resposta: Refatorações de código
+## 4.4 Riscos de gereciamento de projeto
+
+- R14: Perda de reuniões da equipe
+    - Risco: Baixo
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Análise do quadro de disponibilidades do grupo
+    - Resposta: Realização de reuniões rápidas, gravação das reuniões
+
+- R15: Saída de membros da equipe
+    - Risco: Baixo
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Sempre ajudar os membros com mais dificuldades, avaliações de stress mental e saúde da equipe
+    - Resposta: Realocação dos membros nas atividades
+
+- R16: Subestimativas ou Superestimativas
+    - Risco: Alto
+    - Probabilidade: Médio
+    - Impacto: Médio
+    - Prevenção: Avaliação das estimativas com a equipe, conhecimento do projeto
+    - Resposta: Reavaliação das estimativas propostas
+
+- R17: Falta de planejamento
+    - Risco: Baixo
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Planejamentos com antecedência sempre levando em conta a capacidade e disponibilidade dos membros
+    - Resposta: Replanejamento e possível realocação de membros nas atividades
+
+- R18: Atrasos nas execuções das atividades
+    - Risco: Médio
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Entendimento dos cronogramas e das capacidades dos integrantes
+    - Resposta: Reavaliação do cronograma e das tarefas que são esperadas para as entregas
+
+- R19: Falta de comunicação entre a equipe e entre os clientes
+    - Risco: Baixo
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Manter canal de comunicação entre a equipe e entre o cliente sempre bem ativo
+    - Resposta: Propor atividades para interação do grupo
+
 ## Referência
 
 > [1] Aguiar, Mauricio. "Gerenciando riscos nos projetos de software." Developer’s Magazine. Disponível em: <http://metricas.com.br/downloads/Gerenciamento_de_Riscos.pdf> (2011). Acesso em: 04 de maio de 2023.
