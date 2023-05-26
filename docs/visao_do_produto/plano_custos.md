@@ -16,13 +16,17 @@
 
 ## 3. Custos por equipamento
 
-### Hardware
-
 <p align="justify" style="text-indent: 20px">Levando em conta que o projeto é realizado em computador, é consenso que cada aluno necessita de uma unidade para si, pois é inviável que os desenvolvimento seja feito ao mesmo tempo em conjunto em uma só máquina ou poucas unidades, já que muitas necessidades do projeto podem ser feitas em paralelo, e se levar em conta o tempo em si, essa necessidade é até obrigatória.</p>
-<p align="justify" style="text-indent: 20px">Assim, foi feita a escolha de um computador específico com base em uma pesquisa de mercado, levando em contas os requisitos necessários para desenvolver o projeto de maneira eficiente, mas que não sejam desnecessariamente custosos demais. Dessa maneira a equipe levantou os seguintes requisitos de hardware para o computador: <b>Processador Intel Core i3, 8 GB de memória RAM e SSD de 256 GB</b>. O equipamento escolhido tem custo na data de 05/05/2023 de R$ 2.868 no site da fabricante, que pode ser visualizado <a href="https://www.hp.com/br-pt/shop/notebook-hp-256-g8-78l98la.html">aqui</a>.</p>
-<p align="justify" style="text-indent: 20px">O valor total desse custo, multiplicado pela quantidade de alunos, 17, é de cerca de <b>R$ 48.756</b></a>.</p>
+<p align="justify" style="text-indent: 20px">Assim, foi feita a escolha de um computador específico com base em uma pesquisa de mercado, levando em contas os requisitos necessários para desenvolver o projeto de maneira eficiente, mas que não sejam desnecessariamente custosos demais. Dessa maneira a equipe levantou os seguintes requisitos de hardware para o computador: <b>Processador Intel Core i3, 8 GB de memória RAM e SSD de 256 GB</b>. O equipamento escolhido tem custo na data de 05/05/2023 de <b>R$ 2.868,00</b> no site da fabricante, que pode ser visualizado <a href="https://www.hp.com/br-pt/shop/notebook-hp-256-g8-78l98la.html">aqui</a>.</p>
+<p align="justify" style="text-indent: 20px">O valor total desse custo, multiplicado pela quantidade de alunos, 17, é de cerca de <b>R$ 48.756,00</b>.</p>
 
-## 4. Planilha
+## 4. Custos com internet
+
+<p align="justify" style="text-indent: 20px">Para poder contribuir com o projeto remotamente, é necessário ter uma conexão com internet, e para uma conexão de qualidade, evitando problemas de velocidade, é necessário pelo menos 50 Mbps. Fazendo pesquisas [<a href=./#referencia>2</a>], [<a href=./#referencia>3</a>], foi possível constatar que, no DF, a média de valores de planos para internet acima de 50 Mbps é de <b>R$ 90,00</b> por mês.</p>
+<p align="justify" style="text-indent: 20px">Levando em consideração que o projeto será desenvolvido nos meses Abril, Maio, Junho e Julho, um único desenvolvedor irá gastar para o projeto <b>R$ 360,00</b> com internet.</p>
+<p align="justify" style="text-indent: 20px">Este valor, multiplicado pela quantidade de alunos, 17, é <b>R$ 6120,00</b>.</p>
+
+## 5. Planilha
 
 <iframe src='https://docs.google.com/spreadsheets/d/1ZjsYscGUs9ifcJvjE-xHu_2Z4RFgUXK3dYlWOTPosSU/edit?usp=sharing'
         width='100%'
@@ -31,7 +35,7 @@
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
 
-## 5. Versionamento
+## 6. Versionamento
 
 <center>
 
@@ -41,9 +45,14 @@
 |  05/05/23  |  1.1   |   Adicionando custo por aluno          |     Ítalo Serra     |
 |  05/05/23  |  1.2   |   Adicionando custo por equipamento    | Guilherme de Morais |
 |  19/05/23  |  1.3   |   Adicionando planilha, alterando referências    | Álvaro Leles |
+|  26/05/23  |  1.4   |   Adicionando custos referentes a equipamento e internet    | Álvaro Leles |
 
 </center>
 
-## 6. Referência
+## 7. Referência
 
 > [1] Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/#:~:text=O%20custo%20por%20aluno%20dos,ao%20custo%20em%20institui%C3%A7%C3%B5es%20privadas.%E2%80%9D. Acessado em 05 mai. 2023.
+
+> [2] Melhor escolha internet em brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df/. Acessado em 26 mai. 2023.
+
+> [3] Melhor Internet em Brasília - DF. Disponível em: https://www.minhaconexao.com.br/ranking/df/brasilia. Acessado em 26 mai. 2023.
