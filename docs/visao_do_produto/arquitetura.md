@@ -23,12 +23,21 @@ Este documento de arquitetura de software fornece uma visão geral da arquitetur
 
 A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é uma abordagem arquitetônica que separa o software em softwares menores que irão interagir por meio de API. Uma das vantagens de se utilizar essa arquitetura é que isola responsabilidades, contribuindo para a manutenabilidade do software. O diagrama da arquitetura do software Schedula pode ser observado abaixo: 
 
-**Inserir arquitetura de desenvolvimento e arquitetura de produção no Heroku**
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFkUpjbiYA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
 
 - **Front end**: Responsável por toda a interação do usuário com o sistema. Por meio desse serviço que o usuário poderá utilizar de maneira visual as funcionalidades que estão dentro do contexto da aplicação. Por exemplo, listar usuários, cadastrar usuários, fazer login, cadastrar postos de trabalho, registrar chamados etc. 
 - **Gestor de usuários**: Microsserviço responsável pela gestão dos usuários da aplicação. 
 - **Detalhador de chamados**: Microsserviço responsável pela gestão dos chamados, o que inclui as operações de criação, remoção, leitura e atualização no banco de dados.  
-- **Gerenciador de localidades**: Microsserviço responsável pela criação, edição, remoção e leitura de cidades e postos de trabalhos, bem como o relacionmento entre essas entidades.  
+- **Gerenciador de localidades**: Microsserviço responsável pela criação, edição, remoção e leitura de cidades e postos de trabalhos, bem como o relacionamento entre essas entidades.
+- **Gerenciador de tutoriais**: Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
+- **Gestor de mensagens**: Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de email que é feito por meio de um serviço SMTP externo.
+
 
 
 ## 4. Metas e Restrições da Arquitetura 
