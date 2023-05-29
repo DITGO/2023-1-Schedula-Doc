@@ -35,6 +35,7 @@ nav:
     - Treinamento de Git: guias/treinamento-git/treinamento-git.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
-    - Plano de riscos: visao_do_produto/plano_riscos.md
+  - Gereciamento de Projeto:
+    - Plano de riscos: gerenciamento_projetos/plano_riscos.md
 
 dev_addr: "0.0.0.0:8000"

@@ -100,7 +100,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 - R1: Indisponibilidade do cliente no decorrer do projeto
 
     - Risco: Alto
-    - Probabilidade: Alto
+    - Probabilidade: Médio
     - Impacto: Alto
     - Prevenção: Organizar, comunicar,  definir horários com os clientes
     - Resposta: Antecipar validações para que a entrega tenha folga de desenvolvimento além de repriorizar ou alterar para problemas que não envolvem o cliente
@@ -109,7 +109,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 
     - Risco: Alto
     - Probabilidade: Alto
-    - Impacto: Médio
+    - Impacto: Alto
     - Prevenção: Planejamento, gerência e divisão de tarefas
     - Resposta: Redistribuição de tarefas entre a equipe e verificação da capacidade de trabalho e desenvolvimento de cada membro
     
@@ -124,9 +124,9 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 - R4: Indisponibilidades dos integrantes por demandas da faculdade
 
     - Risco: Médio
-    - Probabilidade: Médio
+    - Probabilidade: Alto
     - Impacto: Médio
-    - Prevenção: N/A
+    - Prevenção: Organização e planejamento das demandas prioritarias da matéria em questão
     - Resposta: Redistribuição de tarefas entre a equipe
 
 ## 4.2 Riscos organizacionais
@@ -134,7 +134,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 - R5: Realização de pareamentos de forma ineficiente
 
     - Risco: Baixo
-    - Probabilidade: Médio
+    - Probabilidade: Baixo
     - Impacto: Médio
     - Prevenção: Entendimento dos conhecimentos e habilidades da equipe
     - Resposta: Reparear ou transformar pareamento em um grupo com mais integrantes
@@ -142,18 +142,18 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 - R6: Priorização equivocada das tarefas
 
     - Risco: Médio
-    - Probabilidade: Muito Alto
-    - Impacto: Muito Alto
+    - Probabilidade: Médio
+    - Impacto: Médio
     - Prevenção: Entendimento do produto, avaliações com os clientes, comunicação entre a equipe
     - Resposta: Repriorizar e, se necessário, levantar novos requisitos
 
 - R7: Familiaridade com a tecnologia
 
-    - Risco: Médio
-    - Probabilidade: Médio
-    - Impacto: Médio
-    - Prevenção: Avaliação do quadro de conhecimento da equipe
-    - Resposta: Realização de treinamentos e divulgação do conhecimento
+    - Risco: Alto
+    - Probabilidade: Alto
+    - Impacto: Alto
+    - Prevenção: Avaliação do quadro de conhecimento da equipe e nivelamento do conhecimento técnico
+    - Resposta: Realização de treinamentos, divulgação do conhecimento, além de suporte nas entregas com o time todo (Caso haja dificuldades pode buscar ajuda de pessoas que não são da sua squad)
 
 - R8: Financiamento do projeto
 
@@ -167,39 +167,40 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 
 - R9: Utilização de bibliotecas desatualizadas/comprometidas
     - Risco: Muito Baixo
-    - Probabilidade: Alto
-    - Impacto: Alto
+    - Probabilidade: Baixo
+    - Impacto: Baixo
     - Prevenção: Avaliação antes do uso/escolha da biblioteca
-    - Resposta: Implementação própria ou mudança de biblioteca
+    - Resposta: Implementação própria ou mudança de biblioteca além de manter bibliotecas que já são consolidadas no mercado de tecnologia
 
 - R10: Utilização de tecnologias que não atendem às demandas
     - Risco: Muito Baixo
-    - Probabilidade: Médio
-    - Impacto: Médio
+    - Probabilidade: Baixo
+    - Impacto: Baixo
     - Prevenção: Avaliação prévia da tecnologia e das suas funcionalidades
     - Resposta: Refatorações de código
 
 - R11: Infraestrutura definida não atende o projeto
     - Risco: Alto
-    - Probabilidade: Muito Alto
-    - Impacto: Muito Alto
+    - Probabilidade: Muito baixo
+    - Impacto: Muito baixo
     - Prevenção: Avaliação dos custos e capacidades da infraestrutura escolhida
     - Resposta: Alteração da infraestrutura do projeto
 
 - R12: Arquitetura definida não atende o projeto
     - Risco: Baixo
-    - Probabilidade: Alto
-    - Impacto: Alto
+    - Probabilidade: Baixo
+    - Impacto: Baixo
     - Prevenção: Análise e avaliação da arquitetura utilizada ou que se deseja utilizar
     - Resposta: Alteração da arquitetura definida envolvendo refatorações de código
 
 - R13: Qualidade de código
-    - Risco: Médio
+    - Risco: Baixo
     - Probabilidade: Alto
     - Impacto: Alto
     - Prevenção: Análise estática de código, avaliação de acordo com os padrões esperados de qualidade
-    - Resposta: Refatorações de código
-## 4.4 Riscos de gereciamento de projeto
+    - Resposta: Refatorações de código, desenvolvimento de mais teste
+
+## 4.4 Riscos de gerenciamento de projeto
 
 - R14: Perda de reuniões da equipe
     - Risco: Baixo
@@ -217,31 +218,62 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 
 - R16: Subestimativas ou Superestimativas
     - Risco: Alto
-    - Probabilidade: Médio
-    - Impacto: Médio
+    - Probabilidade: Alto
+    - Impacto: Alto
     - Prevenção: Avaliação das estimativas com a equipe, conhecimento do projeto
-    - Resposta: Reavaliação das estimativas propostas
+    - Resposta: Reavaliação das estimativas propostas além de repriorização das demandas em questão
 
 - R17: Falta de planejamento
     - Risco: Baixo
-    - Probabilidade: Alto
-    - Impacto: Alto
+    - Probabilidade: Baixo
+    - Impacto: Baixo
     - Prevenção: Planejamentos com antecedência sempre levando em conta a capacidade e disponibilidade dos membros
     - Resposta: Replanejamento e possível realocação de membros nas atividades
 
 - R18: Atrasos nas execuções das atividades
     - Risco: Médio
-    - Probabilidade: Alto
-    - Impacto: Alto
+    - Probabilidade: Médio
+    - Impacto: Médio
     - Prevenção: Entendimento dos cronogramas e das capacidades dos integrantes
     - Resposta: Reavaliação do cronograma e das tarefas que são esperadas para as entregas
 
 - R19: Falta de comunicação entre a equipe e entre os clientes
     - Risco: Baixo
-    - Probabilidade: Alto
-    - Impacto: Alto
+    - Probabilidade: Médio
+    - Impacto: Médio
     - Prevenção: Manter canal de comunicação entre a equipe e entre o cliente sempre bem ativo
     - Resposta: Propor atividades para interação do grupo
+
+# 5. Burndown de riscos
+
+## 5.1. Tabela de riscos
+
+<iframe width='100%'
+        height='480px'
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+</iframe>
+
+## 5.2. Risco externo
+
+<iframe width="600"
+        height="371"
+        seamless
+        frameborder="0"
+        scrolling="no"
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=965005752&amp;format=interactive">
+</iframe>
+
+## 5.3. Risco organizacional
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=992928084&amp;format=interactive"></iframe>
+
+## 5.4. Risco técnico
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=1028138626&amp;format=interactive"></iframe>
+
+## 5.5. Risco de gerenciamento de projeto
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=48045397&amp;format=interactive"></iframe>
 
 ## Referência
 
@@ -259,5 +291,9 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |  04/05/23  |  1.0   |   Documento inicial              |   Ítalo Vinícius  |
+|  05/05/23  |  1.1   |   EAR inicial              |   Ítalo Vinícius  |
+|  19/05/23  |  1.2   |   Planilha inicial              |   Ítalo Vinícius  |
+
+
 
 </center>
