@@ -44,6 +44,8 @@ nav:
     - Treinamento Docker e Desenvolvimento de Código: guias/treinamento-docker/treinamento-docker.md
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
-    - Estrutura Análitica do Projeto: visao_do_produto/EAP.md
+    - Estrutura Analítica do Projeto: visao_do_produto/EAP.md
+  - Gerenciamento de projeto:
+    - Documento de arquitetura: visao_do_produto/arquitetura.md
 
 dev_addr: "0.0.0.0:8000"
