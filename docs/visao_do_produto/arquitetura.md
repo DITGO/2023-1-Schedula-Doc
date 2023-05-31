@@ -6,18 +6,20 @@ Este documento de arquitetura de software fornece uma visão geral da arquitetur
 
 ## 2. Tecnologias
 
-### Linguagem de programação
+### 2.1. Linguagem de programação
 
-- **Typescript**: Linguagem de programação de código aberto que é interpretada de forma estruturada. Pode ser definido como um superconjunto sintático estrito de javascript. Typescript foi escolhido como linguagem de programação, pois fornece uma melhor legibilidade do código e facilita, de certa forma, que seja feita a validação se o código está funcionando corretamente.  
+* <p style="text-align: justify"><b>Typescript:</b> Linguagem de programação de código aberto que é interpretada de forma estruturada. Pode ser definido como um superconjunto sintático estrito de javascript. Typescript foi escolhido como linguagem de programação, pois fornece uma melhor legibilidade do código e facilita, de certa forma, que seja feita a validação se o código está funcionando corretamente.
+</p>
 
-### Front end 
+### 2.2. Front end 
 
-- **React**: Segundo o site oficial do React, trata-se de uma biblioteca JavaScript para a criação de interfaces do usuário. A decisão da escolha por essa tecnologia se deu principalmente pela familiaridade dos desenvolvedores com tal biblioteca, o que permitiria uma maior produtividade. Além disso, foi considerado o fato de que há uma maior facilidade de deploy com uma aplicação realizada com React sem nenhum uso de framework, pois este poderia ser realizado em qualquer servidor que tenha o ambiente node instalado. 
+* <p style="text-align: justify"><b>React:</b> Segundo o site oficial do React, trata-se de uma biblioteca JavaScript para a criação de interfaces do usuário. A decisão da escolha por essa tecnologia se deu principalmente pela familiaridade dos desenvolvedores com tal biblioteca, o que permitiria uma maior produtividade. Além disso, foi considerado o fato de que há uma maior facilidade de deploy com uma aplicação realizada com React sem nenhum uso de framework, pois este poderia ser realizado em qualquer servidor que tenha o ambiente node instalado. 
+</p>
 
-### Back end
+### 2.3. Back end
 
-- **Nest.js:** É um framework Node.js de back end que permite a construção de aplicações server-side escaláveis, eficientes e confiáveis. Esse framework foi escolhido porque auxilia na construção de microsserviços organizados, leves e de fácil manutenção, reduzindo a chance de ocorrer erros e facilitando futuras refatorações.
-
+* <p style="text-align: justify"><b>Nest.js:</b> É um framework Node.js de back end que permite a construção de aplicações server-side escaláveis, eficientes e confiáveis. Esse framework foi escolhido porque auxilia na construção de microsserviços organizados, leves e de fácil manutenção, reduzindo a chance de ocorrer erros e facilitando futuras refatorações.
+</p>
 
 ## 3. Arquitetura
 
@@ -31,13 +33,23 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
   </iframe>
 </div>
 
-- **Front end**: Responsável por toda a interação do usuário com o sistema. Por meio desse serviço que o usuário poderá utilizar de maneira visual as funcionalidades que estão dentro do contexto da aplicação. Por exemplo, listar usuários, cadastrar usuários, fazer login, cadastrar postos de trabalho, registrar chamados etc. 
-- **Gestor de usuários**: Microsserviço responsável pela gestão dos usuários da aplicação. 
-- **Detalhador de chamados**: Microsserviço responsável pela gestão dos chamados, o que inclui as operações de criação, remoção, leitura e atualização no banco de dados.  
-- **Gerenciador de localidades**: Microsserviço responsável pela criação, edição, remoção e leitura de cidades e postos de trabalhos, bem como o relacionamento entre essas entidades.
-- **Gerenciador de tutoriais**: Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
-- **Gestor de mensagens**: Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de email que é feito por meio de um serviço SMTP externo.
+* <b>Front end:</b> Responsável por toda a interação do usuário com o sistema. Por meio desse serviço que o usuário poderá utilizar de maneira visual as funcionalidades que estão dentro do contexto da aplicação. Por exemplo, listar usuários, cadastrar usuários, fazer login, cadastrar postos de trabalho, registrar chamados etc. 
+</b>
 
+* <b>Gestor de usuários:</b> Microsserviço responsável pela gestão dos usuários da aplicação. 
+</b>
+
+* <b>Detalhador de chamados:</b> Microsserviço responsável pela gestão dos chamados, o que inclui as operações de criação, remoção, leitura e atualização no banco de dados.  
+</b>
+
+* <b>Gerenciador de localidades:</b> Microsserviço responsável pela criação, edição, remoção e leitura de cidades e postos de trabalhos, bem como o relacionamento entre essas entidades.
+</b>
+
+* <b>Gerenciador de tutoriais:</b> Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
+</b>
+
+* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de e-mail que é feito por meio de um serviço SMTP externo.
+</b>
 
 
 ## 4. Metas e Restrições da Arquitetura 
@@ -55,12 +67,23 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 | :-------: | :-------: |
 | Conectividade | É necessária conexão com a internet para utilizar a aplicação |
 | Plataforma | A aplicação suporta exclusivamente a plataforma web |
-| Equipe | A equipe conta com 13 integrantes |
-| Prazo |  Projeto deverá ser desenvolvido até o final do semestre 2022/2 da UnB que tem como data de término 18/02/2023
+| Equipe | A equipe conta com 17 integrantes |
+| Prazo |  Projeto deverá ser desenvolvido até o final do semestre 2023/1 da UnB que tem como data de término 25/07/2023
 | Tecnologias | Aplicação deve ser desenvolvida utilizando as tecnologias citadas neste documento |
 
 
-## 5. Referências
+## 5. Versionamento
+
+<center>
+
+| Versão | Data | Descrição | Autor | 
+| :--------: | :--------: | :--------: | :----:
+| 1.0 | 29/05/2023 | Criação do documento | Ítalo Vinícius e Ian Fillipe|
+| 1.1 | 30/05/2023 | Padronizando a formatação do documento | Ian Fillipe e Ítalo Vinícius |
+
+</center>
+
+## 6. Referências
 
 > ReactJS. Disponível em: https://pt-br.reactjs.org. Acesso em: 18/01/2023
 
@@ -69,10 +92,3 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 > Noleto, Cairo. Typescript: o que é, principais conceitos e porquê usar!. Atualizado em: 05/01/2023. Disponível em: https://blog.betrybe.com/desenvolvimento-web/type. Acesso em: 18/01/2023
 
 > NestJS. Disponível em: https://nestjs.com. Acesso em: 18/01/2023
-
-## Versionamento
-
-
-| Versão | Data | Descrição | Autor | 
-| :--------: | :--------: | :--------: | :----:
-| 1.0 | 29/05/2023 | Criação do documento | Ítalo Vinícius e Ian Fillipe|

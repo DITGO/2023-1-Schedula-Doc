@@ -45,7 +45,7 @@ nav:
   - Visão do Produto:
     - Lean Inception: visao_do_produto/lean_inception.md
     - Estrutura Analítica do Projeto: visao_do_produto/EAP.md
-  - Gerenciamento de projeto:
-    - Documento de arquitetura: visao_do_produto/arquitetura.md
+  - Gerenciamento de Projeto:
+    - Documento de Arquitetura: visao_do_produto/arquitetura.md
 
 dev_addr: "0.0.0.0:8000"
