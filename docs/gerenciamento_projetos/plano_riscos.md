@@ -276,16 +276,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=48045397&amp;format=interactive"></iframe>
 
-## Referência
-
-> [1] Aguiar, Mauricio. "Gerenciando riscos nos projetos de software." Developer’s Magazine. Disponível em: <http://metricas.com.br/downloads/Gerenciamento_de_Riscos.pdf> (2011). Acesso em: 04 de maio de 2023.
-
-> [2] Gerenciando os riscos do projeto com a matriz de probabilidade e impacto. Disponível em: <https://glicfas.com.br/estrutura-analitica-de-riscos-2/>. Acesso em: 4 de maio de 2023.
-
-> [3] 2022-2-MeasureSoftGram-Doc. EPS/MDS, , 5 dez. 2022. Disponível em: <https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc>. Acesso em: 6 maio. 2023
-
-
-## Versionamento
+## 6. Versionamento
 
 <center>
 
@@ -296,6 +287,13 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 |  19/05/23  |  1.2   |   Planilha inicial              |   Ítalo Vinícius  |
 |  30/05/23  |  2.0   |   Revisão do documento              |   Ian Fillipe  |
 
-
-
 </center>
+
+
+## 7. Referências
+
+> [1] Aguiar, Mauricio. "Gerenciando riscos nos projetos de software." Developer’s Magazine. Disponível em: <http://metricas.com.br/downloads/Gerenciamento_de_Riscos.pdf> (2011). Acesso em: 04 de maio de 2023.
+
+> [2] Gerenciando os riscos do projeto com a matriz de probabilidade e impacto. Disponível em: <https://glicfas.com.br/estrutura-analitica-de-riscos-2/>. Acesso em: 4 de maio de 2023.
+
+> [3] 2022-2-MeasureSoftGram-Doc. EPS/MDS, , 5 dez. 2022. Disponível em: <https://github.com/fga-eps-mds/2022-2-MeasureSoftGram-Doc>. Acesso em: 6 maio. 2023
