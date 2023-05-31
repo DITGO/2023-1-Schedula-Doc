@@ -1,3 +1,4 @@
+# Plano de Riscos
 ## 1. Introdução
 
 Um Plano de Riscos é como um mapa que ajuda as pessoas a se prepararem para possíveis problemas que podem acontecer durante um projeto.
@@ -22,7 +23,7 @@ A EAR é dividida em diferentes categorias e subcategorias para facilitar a iden
     - Profissional: Riscos com o trabalho ou acumulo de tarefas profissionais.
     - Cliente: Riscos associados à indisponibilidades dos clientes.
 - Riscos organizacionais
-    - Priorização: Riscos de priorizar tarefas que não são do escopo que deveria ser trabalhado pela visão do cliente
+    - Priorização: Riscos de priorizar tarefas que não estão dentro do escopo que deveriam ser trabalhadas, conforme a visão do cliente.
     - Finanças: Riscos de finanças que podem vir a ocorrer em razão dos custos do projeto.
     - Habilidades individuais: Riscos de habilidades individuais que podem vir a ocorrer em razão da falta de capacidade técnica de cada membro da equipe.
 - Riscos de gerenciamento do projeto
@@ -69,7 +70,7 @@ A EAR é dividida em diferentes categorias e subcategorias para facilitar a iden
 </center>
 
 
-# 3.3 Prioridades
+### 3.3. Prioridades
 
 Para definir as prioridades, foi utilizado a seguinte fórmula:
 
@@ -91,11 +92,11 @@ Por meio desta fórmula conseguimos verificar algumas prioridades para atenção
 
 Na tabela acima podemos verificar cada tipo de prioridade que pode ser atribuída a cada risco. Por exemplo, se um risco possui probabilidade(colunas) média e impacto(linhas) alto, sua prioridade será 12.
 
-# 4. Planilha de Riscos
+## 4. Planilha de Riscos
 
 Decorrente de projetos e matérias desenvolvidas no passado a experiência dos integrantes da equipe foi utilizada para a criação de uma planilha de riscos. A planilha de riscos é uma ferramenta que auxilia na identificação, análise e monitoramento dos riscos do projeto. A planilha de riscos é composta por 5 colunas, sendo elas:
 
-## 4.1 Riscos externos
+### 4.1. Riscos externos
 
 - R1: Indisponibilidade do cliente no decorrer do projeto
 
@@ -126,10 +127,10 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
     - Risco: Médio
     - Probabilidade: Alto
     - Impacto: Médio
-    - Prevenção: Organização e planejamento das demandas prioritarias da matéria em questão
+    - Prevenção: Organização e planejamento das demandas prioritárias da matéria em questão
     - Resposta: Redistribuição de tarefas entre a equipe
 
-## 4.2 Riscos organizacionais
+### 4.2. Riscos organizacionais
 
 - R5: Realização de pareamentos de forma ineficiente
 
@@ -153,7 +154,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
     - Probabilidade: Alto
     - Impacto: Alto
     - Prevenção: Avaliação do quadro de conhecimento da equipe e nivelamento do conhecimento técnico
-    - Resposta: Realização de treinamentos, divulgação do conhecimento, além de suporte nas entregas com o time todo (Caso haja dificuldades pode buscar ajuda de pessoas que não são da sua squad)
+    - Resposta: Realização de treinamentos, divulgação do conhecimento, além de suporte nas entregas com o time todo (caso haja dificuldades, pode buscar ajuda de pessoas que não são da sua squad)
 
 - R8: Financiamento do projeto
 
@@ -163,7 +164,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
     - Prevenção: N/A
     - Resposta: Avaliação dos requisitos, apresentação do projeto, comunicação com os clientes
 
-## 4.3 Riscos técnicos  
+### 4.3. Riscos técnicos  
 
 - R9: Utilização de bibliotecas desatualizadas/comprometidas
     - Risco: Muito Baixo
@@ -198,9 +199,9 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
     - Probabilidade: Alto
     - Impacto: Alto
     - Prevenção: Análise estática de código, avaliação de acordo com os padrões esperados de qualidade
-    - Resposta: Refatorações de código, desenvolvimento de mais teste
+    - Resposta: Refatorações de código, desenvolvimento de mais testes
 
-## 4.4 Riscos de gerenciamento de projeto
+### 4.4. Riscos de gerenciamento de projeto
 
 - R14: Perda de reuniões da equipe
     - Risco: Baixo
@@ -244,16 +245,16 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
     - Prevenção: Manter canal de comunicação entre a equipe e entre o cliente sempre bem ativo
     - Resposta: Propor atividades para interação do grupo
 
-# 5. Burndown de riscos
+## 5. Burndown de riscos
 
-## 5.1. Tabela de riscos
+### 5.1. Tabela de riscos
 
 <iframe width='100%'
         height='480px'
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
 </iframe>
 
-## 5.2. Risco externo
+### 5.2. Risco externo
 
 <iframe width="600"
         height="371"
@@ -263,15 +264,15 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=965005752&amp;format=interactive">
 </iframe>
 
-## 5.3. Risco organizacional
+### 5.3. Risco organizacional
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=992928084&amp;format=interactive"></iframe>
 
-## 5.4. Risco técnico
+### 5.4. Risco técnico
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=1028138626&amp;format=interactive"></iframe>
 
-## 5.5. Risco de gerenciamento de projeto
+### 5.5. Risco de gerenciamento de projeto
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR58kJ9RA-tocy9gSHSPep6Oo7mVv1cq7lfESDKFEJlrtCXnZeUjdPr_ZNV0zsFbkqwRJaQlYzApR3I/pubchart?oid=48045397&amp;format=interactive"></iframe>
 
@@ -293,6 +294,7 @@ Decorrente de projetos e matérias desenvolvidas no passado a experiência dos i
 |  04/05/23  |  1.0   |   Documento inicial              |   Ítalo Vinícius  |
 |  05/05/23  |  1.1   |   EAR inicial              |   Ítalo Vinícius  |
 |  19/05/23  |  1.2   |   Planilha inicial              |   Ítalo Vinícius  |
+|  30/05/23  |  2.0   |   Revisão do documento              |   Ian Fillipe  |
 
 
 

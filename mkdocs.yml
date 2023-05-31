@@ -46,6 +46,6 @@ nav:
     - Lean Inception: visao_do_produto/lean_inception.md
     - Estrutura Análitica do Projeto: visao_do_produto/EAP.md
   - Gereciamento de Projeto:
-    - Plano de riscos: gerenciamento_projetos/plano_riscos.md
+    - Plano de Riscos: gerenciamento_projetos/plano_riscos.md
 
 dev_addr: "0.0.0.0:8000"
