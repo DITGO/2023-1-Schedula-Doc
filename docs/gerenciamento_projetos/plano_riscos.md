@@ -80,7 +80,7 @@ Prioridade = Probabilidade x Impacto
 
 </center>
 
-Por meio desta fórmula conseguimos verificar algumas prioridades para atenção em relação aos risco que serão lidados no decorrer do projeto. Além disso podemos validar maneiras de evitar, focar e identificar de maneria mais simples esses possíveis erros.
+Por meio desta fórmula conseguimos verificar algumas prioridades para dar atenção em relação aos riscos que serão lidados no decorrer do projeto. Além disso podemos validar maneiras de evitar, focar e identificar de maneira mais simples esses possíveis erros.
 
 **Probabilidade x Impacto** | **Muito Baixo** | **Baixo** | **Médio**  | **Alto** | **Muito Alto**
 :-----------------------: | :-------------: | :-------: |:----------:|:--------:|:------------: 
