@@ -26,7 +26,12 @@
 <p align="justify" style="text-indent: 20px">Levando em consideração que o projeto será desenvolvido nos meses Abril, Maio, Junho e Julho, um único desenvolvedor irá gastar para o projeto <b>R$ 360,00</b> com internet.</p>
 <p align="justify" style="text-indent: 20px">Este valor, multiplicado pela quantidade de alunos, 17, é <b>R$ 6120,00</b>.</p>
 
-## 5. Planilha
+## 5. Custos com energia
+<p align="justify" style="text-indent: 20px">Utilizando como base que um computador consome, em uma hora, 5kWh/mês [<a href=./#referencia>4</a>], e a tarifa de energia no DF é de R$0,81 kWh [<a href=./#referencia>5</a>], iremos considerar que cada membro dedicará para a disciplina 10 horas semanais. Multiplicando a tarifa pelo consumo mensal têm-se o valor de <b>R$ 4,05</b> por pessoa, por mês.</p>
+<p align="justify" style="text-indent: 20px">Logo, ao longo dos 4 meses do projeto, um desenvolvedor terá o gasto de <b>R$ 16,20</b> com energia dedicada ao projeto.</p>
+<p align="justify" style="text-indent: 20px">Este valor, multiplicado pela quantidade de alunos, 17, é <b>R$ 275,40</b>.</p>
+
+## 6. Planilha
 
 <iframe src='https://docs.google.com/spreadsheets/d/1ZjsYscGUs9ifcJvjE-xHu_2Z4RFgUXK3dYlWOTPosSU/edit?usp=sharing'
         width='100%'
@@ -35,7 +40,7 @@
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
 
-## 6. Versionamento
+## 7. Versionamento
 
 <center>
 
@@ -46,13 +51,18 @@
 |  05/05/23  |  1.2   |   Adicionando custo por equipamento    | Guilherme de Morais |
 |  19/05/23  |  1.3   |   Adicionando planilha, alterando referências    | Álvaro Leles |
 |  26/05/23  |  1.4   |   Adicionando custos referentes a equipamento e internet    | Álvaro Leles |
+|  03/06/23  |  1.5   |   Adicionando custos referentes a energia   | Álvaro Leles |
 
 </center>
 
-## 7. Referência
+## 8. Referência
 
-> [1] Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/#:~:text=O%20custo%20por%20aluno%20dos,ao%20custo%20em%20institui%C3%A7%C3%B5es%20privadas.%E2%80%9D. Acessado em 05 mai. 2023.
+> [1] Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica. Acessado em 05 mai. 2023.
 
-> [2] Melhor escolha internet em brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df/. Acessado em 26 mai. 2023.
+> [2] Melhor escolha internet em brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df. Acessado em 26 mai. 2023.
 
 > [3] Melhor Internet em Brasília - DF. Disponível em: https://www.minhaconexao.com.br/ranking/df/brasilia. Acessado em 26 mai. 2023.
+
+> [4] DICAS PARA ECONOMIA DE ENERGIA AO USAR O COMPUTADOR. Disponível em: http://www.mpgo.mp.br/portal/conteudo/dicas-para-economia-de-energia-ao-usar-o-computador. Acessado em 02 jun. 2023.
+
+> [5] Conta de luz fica mais cara no DF. Disponível em: https://g1.globo.com/df/distrito-federal/noticia/2021/10/22/conta-de-luz-fica-mais-cara-no-df-a-partir-desta-sexta-feira-22.ghtml. Acessado em 02 jun. 2023.
