@@ -49,5 +49,6 @@ nav:
   - Gerenciamento de Projeto:
     - Documento de Arquitetura: visao_do_produto/arquitetura.md
     - Plano de Riscos: gerenciamento_projetos/plano_riscos.md
+    - Plano de Custos: visao_do_produto/plano_custos.md
 
 dev_addr: "0.0.0.0:8000"
