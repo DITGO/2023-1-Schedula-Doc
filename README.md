@@ -23,6 +23,7 @@ O Schedula tem como objetivo auxiliar o gerenciamento de chamados realizados pel
 ## Repositórios de código
 - [Repositório do Gerenciador de Localidades](https://github.com/fga-eps-mds/2023-1-schedula-gerenciador-de-localidades)
 - [Repositório do Gestor de Usuários](https://github.com/fga-eps-mds/2023-1-schedula-gestor-de-usuarios)
+- [Repositório do Gestor de Alertas](https://github.com/fga-eps-mds/2023-1-schedula-gestor-de-alerta)
 - [Repositório do Gerenciador de Tutoriais](https://github.com/fga-eps-mds/2023-1-schedula-gerenciador-de-tutoriais)
 - [Repositório do Detalhador de Chamados](https://github.com/fga-eps-mds/2023-1-schedula-detalhador-de-chamados)
 - [Repositório do Front-end](https://github.com/fga-eps-mds/2023-1-schedula-front)
