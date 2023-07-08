@@ -40,6 +40,30 @@
         sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
 </iframe>
 
+## 6. Agile EVM - Earned Value Management
+
+<p align="justify" style="text-indent: 20px">O Agile EVM (Earned Value Management)[<a href=./#8-referencia>6</a>] é uma adaptação da técnica de gerenciamento do valor agregado para projetos ágeis. Ele é usado para monitorar e controlar o desempenho de projetos ágeis, fornecendo uma visão objetiva do valor do trabalho realizado em relação ao valor planejado.</p>
+
+<p align="justify" style="text-indent: 20px">Agile EVM combina princípios ágeis, como a entrega incremental de valor, com a abordagem tradicional do valor agregado do EVM. Ele utiliza três métricas principais:</p>
+
+- Valor Planejado (Planned Value - PV): Representa o valor planejado para as atividades concluídas em um determinado momento. Corresponde ao valor estimado do trabalho planejado para a sprint ou para o projeto como um todo.
+
+- Valor Ganho (Earned Value - EV): Refere-se ao valor do trabalho concluído e aceito até o momento. É uma medida objetiva do progresso alcançado em relação ao valor planejado.
+
+- Custo Real (Actual Cost - AC): Representa o custo real incorrido para executar as atividades até o momento.
+
+<p align="justify" style="text-indent: 20px">Com base nessas métricas, o Agile EVM calcula duas principais medidas de desempenho:</p>
+
+- Índice de Desempenho de Valor Ganho (Earned Value Performance Index - EVPI): É a relação entre o valor ganho (EV) e o valor gasto (AC). Ele indica se o trabalho está sendo concluído de acordo com o orçamento.
+
+- Índice de Desempenho de Custo (Cost Performance Index - CPI): É a relação entre o valor ganho (EV) e o valor planejado (PV). Ele indica se o trabalho está sendo concluído dentro do orçamento planejado.
+
+<p align="justify" style="text-indent: 20px">Essas métricas e índices ajudam os gerentes de projeto e as equipes ágeis a avaliar o desempenho do projeto, identificar possíveis desvios em relação ao planejado e tomar medidas corretivas, se necessário. Eles fornecem uma visão objetiva do progresso do projeto, permitindo que a equipe tome decisões informadas sobre ajustes no escopo, cronograma e custos, a fim de manter o projeto no caminho certo para alcançar seus objetivos.</p>
+
+<p align="justify" style="text-indent: 20px">A equipe Schedula realizou o levantamento desses índices para cada sprint do projeto, e toda essa análise pode ser acessada <a href='https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubhtml?widget=true&amp;headers=false'>aqui</a>, ou visualizada abaixo:</p>
+
+<iframe style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ## 7. Versionamento
 
 <center>
@@ -53,6 +77,7 @@
 |  26/05/23  |  1.4   |   Adicionando custos referentes a equipamento e internet    | Álvaro Leles |
 |  03/06/23  |  1.5   |   Adicionando custos referentes a energia   | Álvaro Leles |
 |  03/07/23  |  1.6   |   Documento revisado   | Ian Ferreira e Ítalo Vinícius |
+|  08/07/23  |  1.7   |   Adicionando tabela de EVM  |  Álvaro, Gabriel B. e Guilherme |
 
 
 </center>
@@ -68,3 +93,5 @@
 > [4] DICAS PARA ECONOMIA DE ENERGIA AO USAR O COMPUTADOR. Disponível em: http://www.mpgo.mp.br/portal/conteudo/dicas-para-economia-de-energia-ao-usar-o-computador. Acessado em 02 jun. 2023.
 
 > [5] Conta de luz fica mais cara no DF. Disponível em: https://g1.globo.com/df/distrito-federal/noticia/2021/10/22/conta-de-luz-fica-mais-cara-no-df-a-partir-desta-sexta-feira-22.ghtml. Acessado em 02 jun. 2023.
+
+> [6] AgileEVM – Earned Value Management in Scrum Projects. Tamara S.; Brent B.; Thomas B. Proceedings of AGILE 2006 Conference. 2006.
