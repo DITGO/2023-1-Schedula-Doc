@@ -51,25 +51,25 @@
 
 <p align="justify" style="text-indent: 20px">O Agile EVM (Earned Value Management)[<a href=./#10-referencia>6</a>] é uma adaptação da técnica de gerenciamento do valor agregado para projetos ágeis. Ele é usado para monitorar e controlar o desempenho de projetos ágeis, fornecendo uma visão objetiva do valor do trabalho realizado em relação ao valor planejado.</p>
 
-<p align="justify" style="text-indent: 20px">Agile EVM combina princípios ágeis, como a entrega incremental de valor, com a abordagem tradicional do valor agregado do EVM. Ele utiliza três métricas principais:</p>
-
-- Valor Planejado (Planned Value - PV): Representa o valor planejado para as atividades concluídas em um determinado momento. Corresponde ao valor estimado do trabalho planejado para a sprint ou para o projeto como um todo.
-
-- Valor Ganho (Earned Value - EV): Refere-se ao valor do trabalho concluído e aceito até o momento. É uma medida objetiva do progresso alcançado em relação ao valor planejado.
-
-- Custo Real (Actual Cost - AC): Representa o custo real incorrido para executar as atividades até o momento.
-
-<p align="justify" style="text-indent: 20px">Com base nessas métricas, o Agile EVM calcula duas principais medidas de desempenho:</p>
-
-- Índice de Desempenho de Valor Ganho (Earned Value Performance Index - EVPI): É a relação entre o valor ganho (EV) e o valor gasto (AC). Ele indica se o trabalho está sendo concluído de acordo com o orçamento.
-
-- Índice de Desempenho de Custo (Cost Performance Index - CPI): É a relação entre o valor ganho (EV) e o valor planejado (PV). Ele indica se o trabalho está sendo concluído dentro do orçamento planejado.
+<p align="justify" style="text-indent: 20px">Agile EVM combina princípios ágeis, como a entrega incremental de valor, com a abordagem tradicional do valor agregado do EVM. Ele utiliza três métricas principais: Valor Planejado (Planned Value - PV), Valor Ganho (Earned Value - EV) e Custo Real (Actual Cost - AC). Com base nessas métricas, o Agile EVM calcula medidas de desempenho: Índice de Desempenho de Valor Ganho (Earned Value Performance Index - EVPI), Índice de Desempenho de Custo (Cost Performance Index - CPI) e Índice de Desempenho de Cronograma (SPI).</p>
 
 <p align="justify" style="text-indent: 20px">Essas métricas e índices ajudam os gerentes de projeto e as equipes ágeis a avaliar o desempenho do projeto, identificar possíveis desvios em relação ao planejado e tomar medidas corretivas, se necessário. Eles fornecem uma visão objetiva do progresso do projeto, permitindo que a equipe tome decisões informadas sobre ajustes no escopo, cronograma e custos, a fim de manter o projeto no caminho certo para alcançar seus objetivos.</p>
 
 <p align="justify" style="text-indent: 20px">A equipe Schedula realizou o levantamento desses índices para cada sprint do projeto, e toda essa análise pode ser acessada <a href='https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubhtml?widget=true&amp;headers=false'>aqui</a>, ou visualizada abaixo:</p>
 
 <iframe style="width: 100%; height: 500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubhtml?widget=true&amp;headers=false"></iframe>
+
+<p align="justify" style="text-indent: 20px">Descrevendo de maneira mais específica, e destacando alguns dos gráficos presentes na análise, no gráfico abaixo pode-se ver um dos aspectos importantes do Agile EVM, que é a projeção da data da release. Essa projeção envolve o cálculo do Velocity, que representa a quantidade média de trabalho concluído pela equipe em cada iteração ou sprint. Com base no Velocity, é possível estimar o tempo necessário para concluir as tarefas restantes e, assim, projetar a data de entrega ou release do projeto. Com isso se relaciona o Velocity Mean, que é a média histórica do Velocity ao longo do projeto. Ele fornece uma estimativa mais estável e confiável da velocidade da equipe, considerando variações ao longo do tempo. Com base no Velocity Mean, é possível fazer uma projeção mais precisa da data da release, considerando a capacidade real da equipe.</p>
+
+<iframe style="width: 100%; height: 550px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubchart?oid=1483146066&format=interactive"></iframe>
+
+<p align="justify" style="text-indent: 20px">No gráfico abaixo é possível observar a linha temporal de outros conceitos trazidos pelo Agile EVM. Há o Burndown, que é usado para acompanhar o progresso do trabalho durante uma iteração ou sprint. Ele mostra a quantidade de trabalho restante em relação ao tempo disponível. O burndown é útil para identificar se a equipe está adiantada ou atrasada em relação ao planejado e tomar ações corretivas conforme necessário. Também há o Índice de Desempenho de Custo (CPI) e o Índice de Desempenho de Cronograma para avaliar o desempenho do projeto. O CPI é calculado pela relação entre o Valor Agregado (EV) e o Custo Atual (AC). Ele indica se o trabalho está sendo concluído dentro do orçamento planejado. Já o Índice de Desempenho de Cronograma é calculado pela relação entre o Valor Agregado (EV) e o Valor Planejado (PV). Ele indica se o trabalho está sendo concluído dentro do prazo estabelecido.</p>
+
+<iframe style="width: 100%; height: 550px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubchart?oid=402619399&format=interactive"></iframe>
+
+<p align="justify" style="text-indent: 20px">Neste terceiro gráfico, o Valor Planejado (PV) representa o valor estimado do trabalho planejado para ser realizado em um determinado momento. O Custo Atual (AC) é o custo real incorrido até o momento para executar as atividades. O Valor Agregado (EV) é o valor do trabalho concluído e aceito até o momento.</p>
+
+<iframe style="width: 100%; height: 550px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTf-XCyaUycOe-57oOX3AhqMNJQ3rjs2RxASj2tfT8iD6ZaG1WDOvViSU4eSI2uFnxT45LltfjWjp54/pubchart?oid=527299425&format=interactive"></iframe>
 
 ## 9. Versionamento
 
@@ -86,6 +86,7 @@
 |  03/07/23  |  1.6   |   Documento revisado   | Ian Ferreira e Ítalo Vinícius |
 |  08/07/23  |  1.7   |   Adicionando tabela de EVM  |  Álvaro, Gabriel B. e Guilherme |
 |  09/07/23  |  1.8   |   Adicionando custos com hospedagem |  Guilherme de Morais |
+|  09/07/23  |  1.9   |   Detalhando gráficos do EVM |  Guilherme e Gabriel B. |
 
 </center>
 
