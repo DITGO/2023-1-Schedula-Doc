@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-A ISO/IEC 25010 define que um plano de qualidade é o pilar de uma evolução da qualidade de um produto. Um modelo desses consegue determinar quais características serão consideradas na hora de considerar os avanços feitos nas propriedades de um produto de software.
+A ISO/IEC 25010 define que um plano de qualidade é o pilar de uma evolução da qualidade de um produto. Um modelo desses consegue determinar quais características serão analisadas na hora de considerar os avanços feitos nas propriedades de um produto de software.
 
 ## 2. Objetivo
 
@@ -65,7 +65,7 @@ A equipe Schedula adota os seguintes padrões de controle de versão para que a 
 
 3. Ao finalizar o desenvolvimento de código-fonte que solucione uma issue, o desenvolvedor deve abrir um *pull request* respeitando o template configurado no nosso repositório, incluindo plano de testes.
 
-4. O desenvolvedor deve aguardar a esteira de CI retornar os índices extraídos para esse *pull request*. Em caso de o Quality Gate do Sonarcloud falhar, o desenvolvedor deve realizar *commits* nesse *pull request* corrigindo o código-fonte para que ele tenha passe nos requisitos de aprovação de qualidade ditos anteriormente.
+4. O desenvolvedor deve aguardar a esteira de CI retornar os índices extraídos para esse *pull request*. Em caso de o Quality Gate do Sonarcloud falhar, o desenvolvedor deve realizar *commits* nesse *pull request* corrigindo o código-fonte para que ele passe nos requisitos de aprovação de qualidade ditos anteriormente.
 
 
 ## 5. Ferramentas
@@ -92,6 +92,7 @@ Além dessas, outras foram utilizadas com o mesmo propósito da melhoria de qual
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |  10/07/23  |  1.0   |  Criação do documento de plano de qualidade | Gabriel Bonifácio e Guilherme Richter |
+|  11/07/23  |  1.1   |  Revisão do documento | Ian Ferreira |
 
 </center>
 
