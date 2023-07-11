@@ -1,6 +1,6 @@
 # Documento de Arquitetura
 
-## 1.  Introdução
+## 1. Introdução
 
 Este documento de arquitetura de software fornece uma visão geral da arquitetura do sistema da aplicação Schedula. Neste documento, estarão presentes informações que dizem respeito às tecnologias utilizadas no projeto e o modelo arquitetural
 
@@ -48,10 +48,10 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 * <b>Gerenciador de tutoriais:</b> Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
 </b>
 
-* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de e-mail que é feito por meio de um serviço SMTP externo.
+* <b>Gestor de alertas:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários admin para usuários comuns ou outros admins.
 </b>
 
-## 5. Diagrama Entidade Relacionamento (DER)
+## 4. Diagrama Entidade Relacionamento (DER)
 
 O diagrama entidade relacionamento é a representação gráfica da modelagem do banco de dados, visto que facilita a visualização como um todo do banco de dados, auxiliando a equipe de desenvolvimento. Faz a descrição dos objetos (entidades) envolvidos no projeto, com suas determinadas características (atributos) e seus relacionamentos.
 
@@ -60,7 +60,7 @@ Sua representação se dá num olhar mais abstrato para entender de forma mais g
 ![](images/DER_schedula.png)
 
 
-## 6. Diagrama Lógico de dados (DLD)
+## 5. Diagrama Lógico de dados (DLD)
 O diagrama lógico de dados, é a representação mais próxima do que vai ser construído no banco de dados, possuindo tabelas e definindo todos os atributos, bem como suas chaves primárias e estrangeiras.
 
 Ele estabelece a estrutura dos elementos de dados e também seus relacionamentos, de forma com que descreve as necessidades de dados para o projeto. Sua utilização serve para definir como o sistema Schedula deveria ser implementado.
@@ -68,7 +68,7 @@ Ele estabelece a estrutura dos elementos de dados e também seus relacionamentos
 ![](images/DLD_schedula.png)
 
 
-## 4. Metas e Restrições da Arquitetura 
+## 6. Metas e Restrições da Arquitetura 
 
 | Meta | Descrição |
 | :--: | :-------: |
@@ -88,7 +88,7 @@ Ele estabelece a estrutura dos elementos de dados e também seus relacionamentos
 | Tecnologias | Aplicação deve ser desenvolvida utilizando as tecnologias citadas neste documento |
 
 
-## 5. Versionamento
+## 7. Versionamento
 
 <center>
 
@@ -96,12 +96,13 @@ Ele estabelece a estrutura dos elementos de dados e também seus relacionamentos
 | :--------: | :--------: | :--------: | :----:
 | 1.0 | 29/05/2023 | Criação do documento | Ítalo Vinícius e Ian Fillipe|
 | 1.1 | 30/05/2023 | Padronizando a formatação do documento | Ian Fillipe e Ítalo Vinícius |
+| 1.2 | 10/07/2023 | Correção do microsserviço de alertas | Ítalo Vinícius |
 | 2.0 | 10/07/2023 | Criação do DLD | Ítalo Vinícius |
 | 2.1 | 10/07/2023 | Criação e adição do DER e DLD | Gabriel Avelino e Gabriel Bonifácio |
 
 </center>
 
-## 6. Referências
+## 8. Referências
 
 > ReactJS. Disponível em: https://pt-br.reactjs.org. Acesso em: 18/01/2023
 
