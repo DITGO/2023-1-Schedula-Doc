@@ -48,7 +48,7 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 * <b>Gerenciador de tutoriais:</b> Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
 </b>
 
-* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de e-mail que é feito por meio de um serviço SMTP externo.
+* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários admin para usuários comuns ou outros admins.
 </b>
 
 
@@ -80,6 +80,8 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 | :--------: | :--------: | :--------: | :----:
 | 1.0 | 29/05/2023 | Criação do documento | Ítalo Vinícius e Ian Fillipe|
 | 1.1 | 30/05/2023 | Padronizando a formatação do documento | Ian Fillipe e Ítalo Vinícius |
+| 1.2 | 10/07/2023 | Correção do microsserviço de alerts | Ítalo Vinícius |
+
 
 </center>
 
