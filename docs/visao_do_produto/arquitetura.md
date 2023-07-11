@@ -48,8 +48,24 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 * <b>Gerenciador de tutoriais:</b> Microsserviço responsável pela criação, edição, remoção e leitura de tutoriais, bem como o relacionamento entre essas entidades com categorias de tutoriais
 </b>
 
-* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários admin para usuários comuns ou outros admins.
+* <b>Gestor de mensagens:</b> Microsserviço responsável pela gestão das mensagens enviadas pelos usuários além do controle de envio de e-mail que é feito por meio de um serviço SMTP externo.
 </b>
+
+## 5. Diagrama Entidade Relacionamento (DER)
+
+O diagrama entidade relacionamento é a representação gráfica da modelagem do banco de dados, visto que facilita a visualização como um todo do banco de dados, auxiliando a equipe de desenvolvimento. Faz a descrição dos objetos (entidades) envolvidos no projeto, com suas determinadas características (atributos) e seus relacionamentos.
+
+Sua representação se dá num olhar mais abstrato para entender de forma mais geral a estrutura que possui o banco de dados da aplicação do Schedula.
+
+![](images/DER_schedula.png)
+
+
+## 6. Diagrama Lógico de dados (DLD)
+O diagrama lógico de dados, é a representação mais próxima do que vai ser construído no banco de dados, possuindo tabelas e definindo todos os atributos, bem como suas chaves primárias e estrangeiras.
+
+Ele estabelece a estrutura dos elementos de dados e também seus relacionamentos, de forma com que descreve as necessidades de dados para o projeto. Sua utilização serve para definir como o sistema Schedula deveria ser implementado.
+
+![](images/DLD_schedula.png)
 
 
 ## 4. Metas e Restrições da Arquitetura 
@@ -80,8 +96,8 @@ A arquitetura utilizada no projeto é a arquitetura de microsserviços. Essa é 
 | :--------: | :--------: | :--------: | :----:
 | 1.0 | 29/05/2023 | Criação do documento | Ítalo Vinícius e Ian Fillipe|
 | 1.1 | 30/05/2023 | Padronizando a formatação do documento | Ian Fillipe e Ítalo Vinícius |
-| 1.2 | 10/07/2023 | Correção do microsserviço de alerts | Ítalo Vinícius |
-
+| 2.0 | 10/07/2023 | Criação do DLD | Ítalo Vinícius |
+| 2.1 | 10/07/2023 | Criação e adição do DER e DLD | Gabriel Avelino e Gabriel Bonifácio |
 
 </center>
 
